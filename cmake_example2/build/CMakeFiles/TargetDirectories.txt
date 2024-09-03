@@ -1,3 +1,0 @@
-/home/zone/dev/cpplearning2/cmake_example2/build/CMakeFiles/hello_world.dir
-/home/zone/dev/cpplearning2/cmake_example2/build/CMakeFiles/edit_cache.dir
-/home/zone/dev/cpplearning2/cmake_example2/build/CMakeFiles/rebuild_cache.dir
